@@ -26,4 +26,5 @@ return [
     'confirm' => 'Confirm Password',
     'dash' => 'Dashboard',
     'logged' => 'You are logged in!',
+    'welcome' => 'Multilingual Laravel',
 ];
